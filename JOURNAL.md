@@ -39,7 +39,7 @@ what i did:
 ## Some funny things:
 - I kinda had to resketch the pcb shape cuz I didnt know that i was using the wrong liquid or setting thing to trace the shape (i used draw instead of the other thing), but I got it FIXED!
 
-**Total time spent: 3h 2m**
+**Total time spent: 3h 2m --> lapse link https://lapse.hackclub.com/timelapse/bVqvEd1M4lEg**
 
 # May 17th: made the keychain case
 <img width="826" height="582" alt="image (1)" src="https://github.com/user-attachments/assets/13acf3dc-d2e7-4081-b5a7-966d83ab756c" />
@@ -55,6 +55,14 @@ For the case, i wanted to make 2 seperate parts which is the top and botton part
 
 ## Specifically the upper case
 - First, i wanted to the width and length of the heart hsaoed pcb and extruded it for the sided parts, then sketched the inner part of the pcb again and extruded it again, then i made the holed for the leds by also tracing and extruding to delete it.
+  <img width="991" height="841" alt="image" src="https://github.com/user-attachments/assets/9e4b1407-143c-4422-9585-0857a7437844" />
+
+## Pecifically for the bottom case
+- I tbh just wanted to make a flat surface so that i can super glue it to the upper case
+  <img width="950" height="808" alt="image" src="https://github.com/user-attachments/assets/2f19ccd4-c53d-46dc-9f45-b72254430308" />
+
+**Total time spent: 4h 36 --> lapse link https://lapse.hackclub.com/timelapse/RaKUP-y9pE7p**
+
 
 
 
