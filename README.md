@@ -26,5 +26,10 @@ a pcb that will have a 3d printed container and set as a keychain!
 # Here is how it looks is 3D
 <img width="1412" height="888" alt="WhatsApp Image 2026-05-10 at 3 40 28 PM" src="https://github.com/user-attachments/assets/ae43c815-7792-4f77-93ad-387198df8914" />
 
+# AI USE
+- Asisting me ensure my schematic, wiring, and components + footprints
+- Helping me get to know the settings for Onshape (im still beginer in cad)
+- Asisting to understadn the logic of 555 timer
+
 # For the journal repo, you can check on this link:
 https://github.com/aishagweasley-source/blinker-keychain/blob/main/JOURNAL.md
