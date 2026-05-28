@@ -1,5 +1,8 @@
 # Blinker-Keychain
-its a heartshape pcb with in a 3d printed container that will be set as a keychain!
+its a heartshape pcb with in a 3d printed container that will be set as a keychain
+
+# Short description
+its basically a blinky pcb with 16 leds that will contineuously turn on and off using a 555 timer, this will also have a case specifically made so it can be set as a keychain too!
 
 # Why i made this?
 Personally i've always wanted to make a pcb, and ive alwasy wanted more keychains for my bag! So i decided to make both 2 in one. 
