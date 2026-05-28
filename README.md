@@ -24,4 +24,4 @@ a pcb that will have a 3d printed container and set as a keychain!
 <img width="1412" height="888" alt="WhatsApp Image 2026-05-10 at 3 40 28 PM" src="https://github.com/user-attachments/assets/ae43c815-7792-4f77-93ad-387198df8914" />
 
 # For the journal repo, you can check on this link:
-https://github.com/aishagweasley-source/journal.md/edit/main/README.md
+https://github.com/aishagweasley-source/blinker-keychain/blob/main/JOURNAL.md
